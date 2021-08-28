@@ -1,0 +1,1 @@
+create note and save it using localstorage and even search it advanced search algo is being used of js 
